@@ -177,7 +177,7 @@ def get_versions():
     return to_tuple(current), to_tuple(latest)
 
 if __name__ == '__main__':
-    print(f'Running CS577 SP22 HW03 tester v{__version__}')
+    print(f'Running CS577 SP22 HW04 tester v{__version__}')
 
     current, latest = get_versions()
     to_v_str = lambda x : '.'.join(map(str, x))

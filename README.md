@@ -1,4 +1,4 @@
-# hw03-tester
+# hw04-tester
 
 Additional tests for CS577 Spring 2021 HW04: More Greedy
 
@@ -16,7 +16,7 @@ Additional tests for CS577 Spring 2021 HW04: More Greedy
 
 ### Option 2: Download specific files
 
- - Download [tests.json](tests.json) and [hw03-test.py](hw04-test.py) into the directory that contains your `Makefile` and code.
+ - Download [tests.json](tests.json) and [hw04-test.py](hw04-test.py) into the directory that contains your `Makefile` and code.
 
 ### Additional Test
 
