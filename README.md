@@ -1,6 +1,6 @@
 # hw04-tester
 
-Additional tests for CS577 Spring 2021 HW04: More Greedy
+Additional tests for CS577 Spring 2022 HW04: More Greedy
 
 ## Changes
 
